@@ -1,0 +1,2 @@
+F:\source-code-starter\TestNinja\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.AssemblyReference.cache
+F:\source-code-starter\TestNinja\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache

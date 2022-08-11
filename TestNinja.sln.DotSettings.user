@@ -1,0 +1,49 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/Environment/Hierarchy/EntityFrameworkOptions/IsAlreadyNotifiedAboutEntityFramework/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2a28117c_002D772f_002D47f6_002D872c_002D4b96d81d79d4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ReadVideoTitle_EmptyFile_ReturnError" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::30DAAE3D-1D5C-4003-AD94-9E9657696E50::.NETFramework,Version=v4.8::UnitTestProject_1.Mocking.VideoServiceTests.ReadVideoTitle_EmptyFile_ReturnError&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::30DAAE3D-1D5C-4003-AD94-9E9657696E50::.NETFramework,Version=v4.8::UnitTestProject_1.Mocking.ProductTests.GetPrice_ForGoldCust_Retrun30perdiscount&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=48e1ae5e_002De02a_002D405a_002Db92f_002D18fd6b5eb9b5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CanBeCancelledBy_UserIsAdmin_ReturnsTrue #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::30DAAE3D-1D5C-4003-AD94-9E9657696E50::.NETFramework,Version=v4.8::UnitTestProject_1.ReservationTests.CanBeCancelledBy_UserIsAdmin_ReturnsTrue&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::30DAAE3D-1D5C-4003-AD94-9E9657696E50::.NETFramework,Version=v4.8::UnitTestProject_1.ReservationTests.canBeCancelledBy_SameUser_ReturnTrue&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::30DAAE3D-1D5C-4003-AD94-9E9657696E50::.NETFramework,Version=v4.8::UnitTestProject_1.ReservationTests.CanBeCancelledBy_AnotherUser_ReturnsFalse&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::30DAAE3D-1D5C-4003-AD94-9E9657696E50::.NETFramework,Version=v4.8::UnitTestProject_1.MathTests.Add_WhenCalled_ReturnTheSun&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::30DAAE3D-1D5C-4003-AD94-9E9657696E50::.NETFramework,Version=v4.8::UnitTestProject_1.MathTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=687493a9_002D8f12_002D4e98_002Db6f5_002D4203769d622c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CanBeCancelledBy_UserIsAdmin_ReturnsTrue" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::30DAAE3D-1D5C-4003-AD94-9E9657696E50::.NETFramework,Version=v4.8::UnitTestProject_1.ReservationTests.CanBeCancelledBy_UserIsAdmin_ReturnsTrue&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::30DAAE3D-1D5C-4003-AD94-9E9657696E50::.NETFramework,Version=v4.8::UnitTestProject_1.FizzBuzzTests.GetOutput_if3and5_ReturnFizzBuzz&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::30DAAE3D-1D5C-4003-AD94-9E9657696E50::.NETFramework,Version=v4.8::UnitTestProject_1.FizzBuzzTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::30DAAE3D-1D5C-4003-AD94-9E9657696E50::.NETFramework,Version=v4.8::UnitTestProject_1.DemeritPointsCaclTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::30DAAE3D-1D5C-4003-AD94-9E9657696E50::.NETFramework,Version=v4.8::UnitTestProject_1.StacksTests.Push_ArgIsNull_ThrowArgumentException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::30DAAE3D-1D5C-4003-AD94-9E9657696E50::.NETFramework,Version=v4.8::UnitTestProject_1.StacksTests.Push_ArgIsNull_ThrowArgumentNullException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::30DAAE3D-1D5C-4003-AD94-9E9657696E50::.NETFramework,Version=v4.8::UnitTestProject_1.StacksTests.Pop_EmptyStack_InvalidOperator&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::30DAAE3D-1D5C-4003-AD94-9E9657696E50::.NETFramework,Version=v4.8::UnitTestProject_1.StacksTests.Pop_StackWithAFewObject_ReturnObjectOnTop&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::30DAAE3D-1D5C-4003-AD94-9E9657696E50::.NETFramework,Version=v4.8::UnitTestProject_1.StacksTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a45bef16_002D5285_002D41f5_002Db015_002D6785d2477a0b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Peek_EmptyStack_ThrowInvalidOperatorException" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::30DAAE3D-1D5C-4003-AD94-9E9657696E50::.NETFramework,Version=v4.8::UnitTestProject_1.StacksTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b41a3593_002D1217_002D4d72_002D9802_002D03256a4e2e15/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CanBeCancelledBy_UserIsAdmin_ReturnsTrue #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::30DAAE3D-1D5C-4003-AD94-9E9657696E50::.NETFramework,Version=v4.8::UnitTestProject_1.ReservationTests.CanBeCancelledBy_UserIsAdmin_ReturnsTrue&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::30DAAE3D-1D5C-4003-AD94-9E9657696E50::.NETFramework,Version=v4.8::UnitTestProject_1.MathTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::30DAAE3D-1D5C-4003-AD94-9E9657696E50::.NETFramework,Version=v4.8::UnitTestProject_1.HtmlFormatterTests.When_called_return_strong_element&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::30DAAE3D-1D5C-4003-AD94-9E9657696E50::.NETFramework,Version=v4.8::UnitTestProject_1.CustomerControllerTests.GetCustomer_ifIdiszero_ReturnNotFound&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::30DAAE3D-1D5C-4003-AD94-9E9657696E50::.NETFramework,Version=v4.8::UnitTestProject_1.CustomerControllerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::30DAAE3D-1D5C-4003-AD94-9E9657696E50::.NETFramework,Version=v4.8::UnitTestProject_1.ErrorLoggerTests.log_whenCalled_SetTheLastErrorProperty&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::30DAAE3D-1D5C-4003-AD94-9E9657696E50::.NETFramework,Version=v4.8::UnitTestProject_1.ErrorLoggerTests.Log_InvalidError_ThrowsArgumentNullException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::30DAAE3D-1D5C-4003-AD94-9E9657696E50::.NETFramework,Version=v4.8::UnitTestProject_1.ErrorLoggerTests.Log_ValidError_RaiseErrorLoggedEvent&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::30DAAE3D-1D5C-4003-AD94-9E9657696E50::.NETFramework,Version=v4.8::UnitTestProject_1.FizzBuzzTests.GetOutput_if3and5_ReturnFizzBuzz&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::30DAAE3D-1D5C-4003-AD94-9E9657696E50::.NETFramework,Version=v4.8::UnitTestProject_1.Mocking.VideoServiceTests.ReadVideoTitle_EmptyFile_ReturnError&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
